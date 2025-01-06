@@ -1,0 +1,7 @@
+# No whitespace after the comma or in your part name!
+config SHIELD_SOFLE_YH_LEFT
+    def_bool $(shields_list_contains,sofle_yh_left)
+
+# No whitespace after the comma or in your part name!
+config SHIELD_SOFLE_YH_RIGHT
+    def_bool $(shields_list_contains,sofle_yh_right)
