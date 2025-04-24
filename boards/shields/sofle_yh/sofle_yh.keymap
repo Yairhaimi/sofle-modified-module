@@ -17,6 +17,8 @@
                 &kp A &kp B &kp C &kp D &kp E &kp F &kp G     &kp A &kp B &kp C &kp D &kp E &kp F &kp G
                 &kp A &kp B &kp C &kp D &kp E &kp F &kp G     &kp A &kp B &kp C &kp D &kp E &kp F &kp G
             >;
+
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
         };
     };
 };
