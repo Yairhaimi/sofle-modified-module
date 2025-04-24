@@ -23,3 +23,5 @@ include:
     shield: sofle_yh_left
   - board: nice_nano_v2
     shield: sofle_yh_right
+  - board: nice_nano_v2
+    shield: tester_pro_micro
