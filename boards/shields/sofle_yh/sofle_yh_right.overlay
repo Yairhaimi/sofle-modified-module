@@ -6,6 +6,10 @@
 
 #include "sofle_yh.dtsi"
 
+&default_transform {
+    col-offset = <7>;
+};
+
 &right_encoder {
     status = "okay";
 };
