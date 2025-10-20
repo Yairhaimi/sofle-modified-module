@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: sofle_yh_left nice_oled
+    shield: tester_pro_micro
   - board: nice_nano_v2
-    shield: sofle_yh_right
+    shield: tester_pro_micro
