@@ -7,7 +7,7 @@
 #include "sofle_yh.dtsi"
 
 &default_transform {
-    col-offset = <7>;
+    col-offset = <4>;
 };
 
 &right_encoder {
